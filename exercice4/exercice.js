@@ -1,3 +1,3 @@
 $("button").click(function(){
-    $("p").method();
+    $("p").toggle();
 });
